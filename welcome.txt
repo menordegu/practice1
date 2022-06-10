@@ -21,7 +21,9 @@ public class Arthimetic_operation {
 		c=a/b;
 		System.out.println("Division: "+c);
 		b=3;
+
 		c=a%b;
+
 		System.out.println("Remainder: "+c);
 		a=++a;
 		System.out.println("Increment Operator: "+a);
